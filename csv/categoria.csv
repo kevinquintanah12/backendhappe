@@ -1,0 +1,11 @@
+id,nombre,createdAt,updatedAt
+1,Papel extendido,now(),now()
+2,Correctores,now(),now()
+3,Juegos de Geometria,now(),now()
+4,Marcatextos,now(),now()
+5,Papel de Regalo,now(),now()
+6,Papeleria,now(),now()
+7,Libretas,now(),now()
+8,Decoracion,now(),now()
+9,Regalo,now(),now()
+10,Lapices,now(),now()
